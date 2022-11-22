@@ -1,7 +1,7 @@
 ---
 name: Bunsung92's issue template
 about: to. Design Pattern Lerner
-title: "[Type]"
+title: ''
 labels: documentation, study
 assignees: bunsung92
 
