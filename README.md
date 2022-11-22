@@ -12,4 +12,4 @@
 - 이슈는 각 코드가 최종 마무리 되었을 시 close 합니다.
 
 ## 🎨 패턴 모음
-1. (전략패턴)[https://github.com/bunsung92/Head_First/tree/main/HeadFirst/src/chapter1/strategy]
+1. [전략 패턴](https://github.com/bunsung92/Head_First/tree/main/HeadFirst/src/chapter1/strategy)
