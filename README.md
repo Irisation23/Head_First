@@ -2,7 +2,7 @@
 - 해당 페이지는 디자인패턴 학습을 위한 repository입니다.
 
 ## ⭐️ 커밋 방식
-- designpattern(📝📚🛠): foobar foo bar barz #IssueNumber
+> designpattern(📝📚🛠): foobar foo bar barz #IssueNumber
 - 📝 공부 중
 - 📚 정리 완료
 - 🛠 수정
