@@ -13,3 +13,4 @@
 
 ## 🎨 패턴 모음
 1. [전략 패턴](https://github.com/bunsung92/Head_First/tree/main/HeadFirst/src/chapter1/strategy)
+2. [옵저버 패턴](https://github.com/bunsung92/Head_First/tree/main/HeadFirst/src/chapter2/observer)
