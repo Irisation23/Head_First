@@ -1,4 +1,4 @@
-package chapter1.strategy.duck;
+package strategy.duck;
 
 public interface FlyBehavior {
     void fly();

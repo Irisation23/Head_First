@@ -1,4 +1,4 @@
-package chapter1.strategy.duck;
+package strategy.duck;
 
 public class MallDuck extends Duck {
 

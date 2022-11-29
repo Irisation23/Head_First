@@ -1,4 +1,4 @@
-package chapter2.observer;
+package observer;
 
 public class ForecastDisplay implements Observer, DisplayElement{
     private WeatherData weatherData;

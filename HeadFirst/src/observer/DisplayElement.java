@@ -1,4 +1,4 @@
-package chapter2.observer;
+package observer;
 
 public interface DisplayElement {
     void display();
